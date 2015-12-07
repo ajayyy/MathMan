@@ -1,0 +1,7 @@
+Mathman est comme PacMan. Tu dois éviter les fantômes pendant que tu manges les petites carées.
+Contrôles:WASD-bouger, Éspace-manger les carées
+Toutes les carreaux ont une chiffre entre 10 et -10, chaque dix secondes l'opérateur vas changer entre addition, soustraction, multiplication ou division.
+Ton pointage vas être changer par la prochaine carée que tu manges et l'opérateur.
+La TOUR DE TONNER: Tu dois répondre a 5 questions d'addition, sosutraction ou multiplication de nombres entiers en mois que 30 secondes. Ton temps est en haut. 
+Au millieu il y a l'équasion et en bas tu as ton pointage. Pour répondre, taper ton réponse et utilise la trait-dunion(-) pour les nombres négatives. Pèse "enter" pour
+soumettre ta réponse. Si ta réponse est correcte, tu reçois une point. Si tu réussit a avoir 5 points, tu as une vie extra, si non, JEU TERMINÉ!. Bonne chance!
